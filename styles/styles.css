@@ -1,0 +1,87 @@
+:root {
+    --primary-color: #000000;
+    --secondary-color: #FFFFFF;
+    --third-color: #bdbdbd;
+    --accent-success-color: #189e00;
+    --accent-failure-color: #e40000a2;
+    --player-color: #00E4FF;
+    --opponent-color: #FF10F0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Press Start 2P";
+}
+
+body {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    border: 1px solid var(--secondary-color);
+    padding: 5px 5px;
+    font-size: 2rem;
+    margin: 5px;
+}
+
+button:hover {
+    filter: brightness(0.8);
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.wrapper {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.title-and-record {
+    margin-bottom: 100px;
+}
+
+.record {
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin: 30px auto 10px auto;
+}
+
+#player-record {
+    color: var(--player-color);
+}
+
+#opponent-record {
+    color: var(--opponent-color);
+}
+
+.picks {
+    margin: 30px;
+}
+
+.pick img {
+    width: 250px;
+    transition: width 0.15s ease-in-out;
+}
+
+.pick img:hover {
+    width: 260px;
+}
+
+#reset {
+    font-size: 1rem;
+}
