@@ -36,7 +36,7 @@ You just need a modern web-browser to run this project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/khalilanaspriv/rock-paper-scissors.git](https://github.com/khalilanasperso/rock-paper-scissors.git)
+    git clone [https://github.com/khalilanaspriv/rock-paper-scissors.git]
     ```
 2.  **Navigate into the project directory:**
     ```bash
