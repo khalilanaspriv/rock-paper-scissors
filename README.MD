@@ -35,9 +35,11 @@ You just need a modern web-browser to run this project locally.
 ### Installation
 
 1.  **Clone the repository:**
+
     ```
     git clone [https://github.com/khalilanaspriv/rock-paper-scissors.git]
     ```
+
 2.  **Navigate into the project directory:**
     ```
     cd rock-paper-scissors
