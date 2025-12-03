@@ -45,6 +45,7 @@ You just need a modern web-browser to run this project locally.
     ```
     cd rock-paper-scissors
     ```
+
 3.  **Run the index.html file in pages/ folder**
 
 ---
