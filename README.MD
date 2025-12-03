@@ -11,12 +11,8 @@ A very simple retro-themed rock, paper, scissors game coded in vanilla HTML, CSS
 * [Getting Started](#-getting-started)
     * [Prerequisites](#prerequisites)
     * [Installation](#installation)
-* [Usage](#-usage)
-* [Roadmap](#-roadmap)
-* [Contributing](#-contributing)
+* [Fixes and Updates](#fixes-and-updates)
 * [License](#-license)
-* [Contact](#-contact)
-* [Acknowledgments](#-acknowledgments)
 
 ---
 
