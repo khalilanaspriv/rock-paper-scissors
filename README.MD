@@ -41,6 +41,7 @@ You just need a modern web-browser to run this project locally.
     ```
 
 2.  **Navigate into the project directory:**
+
     ```
     cd rock-paper-scissors
     ```
