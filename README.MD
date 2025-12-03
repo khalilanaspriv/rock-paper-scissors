@@ -7,10 +7,10 @@ A very simple retro-themed rock, paper, scissors game coded in vanilla HTML, CSS
 ## 🌟 Table of Contents
 
 * [About the Project](#about-the-project)
-    * [Built With](#built-with)
+* [Built With](#built-with)
 * [Getting Started](#getting-started)
-    * [Prerequisites](#prerequisites)
-    * [Installation](#installation)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
 * [Fixes and Updates](#fixes-and-updates-section)
 * [License](#license-section)
 
