@@ -1,4 +1,4 @@
-# 🚀 Project Title
+# 🚀 Rock, Paper, Scissors
 
 A very simple retro-themed rock, paper, scissors game coded in vanilla HTML, CSS, JS.
 
@@ -36,7 +36,7 @@ You just need a modern web-browser to run this project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/khalilanasperso/rock-paper-scissors.git](https://github.com/khalilanasperso/rock-paper-scissors.git)
+    git clone [https://github.com/khalilanaspriv/rock-paper-scissors.git](https://github.com/khalilanasperso/rock-paper-scissors.git)
     ```
 2.  **Navigate into the project directory:**
     ```bash
@@ -51,6 +51,7 @@ You just need a modern web-browser to run this project locally.
 
 * [ ] Enhance UX: make it more clear when the user wins or loses
 * [ ] Optimize the code: remove code redundancy and add some comments in the script.js file
+* [ ] Responsive Design: make the website better on mobile devices.
 
 -----
 
