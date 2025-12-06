@@ -1,5 +1,6 @@
 # 🚀 Rock, Paper, Scissors
 
+(Live on: https://rock-paper-scissors-ka.netlify.app/)
 A very simple retro-themed rock, paper, scissors game coded in vanilla HTML, CSS, JS.
 
 ---
